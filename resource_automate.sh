@@ -1,7 +1,15 @@
-# author: Dut Andrew Kulang dutandrewkulang[at]gmail.com
-# organization: #ASKnet and r0g agency
 #!/bin/bash
 
+: '
+author: Dut Andrew Kulang dutandrewkulang[at]gmail.com
+
+organization: #ASKnet & r0g agency
+
+year: 2023-2024
+
+description: A script to automate the creation of #ASKtraining
+            resources and modules
+'
 #image link
 resource_path='_resources/'
 module_path='_profiles/'
