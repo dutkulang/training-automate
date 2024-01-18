@@ -10,8 +10,10 @@ year: 2023-2024
 description: A script to automate the creation of #ASKtraining
             resources and modules
 '
-#image link
+# resource file path
 resource_path='_resources/'
+
+# module file path
 module_path='_profiles/'
 
 read -p $'Enter resource name eg. Over view introduction to Git and GitHub: ' RESOURCE_NAME
